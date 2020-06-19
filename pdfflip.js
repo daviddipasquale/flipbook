@@ -1,7 +1,7 @@
 /* v 3.5.14
 author http://codecanyon.net/user/creativeinteractivemedia/portfolio?ref=creativeinteractivemedia
 */
-var FLIPBOOK = FLIPBOOK || {};
+varg FLIPBOOK = FLIPBOOK || {};
 
 { /* Main */
     (function init(jQuery, window, document, undefined) {
